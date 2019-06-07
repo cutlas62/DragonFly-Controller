@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PWM_MOTOR Pin=N6-1
+Removed Pin From Net: NetName=GND Pin=N6-2
+Change Component Footprint: Designator=N6 Old Footprint=SOT 23 - 3 New Footprint=DFN1006-3
+Added Pin To Net: NetName=GND Pin=N6-1
+Added Pin To Net: NetName=PWM_MOTOR Pin=N6-2
